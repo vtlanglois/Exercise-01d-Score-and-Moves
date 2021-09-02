@@ -1,6 +1,8 @@
 # Exercise-01d-Score-and-Moves
 Exercise for MSCH-C220, 2 September 2021
 
+A demonstration of this exercise is available at [https://youtu.be/aHoioTsRz9U](https://youtu.be/aHoioTsRz9U)
+
 This exercise should give you the last piece that you need to successfully implement the basic solution to Project 01. We will be adding a score and moves counter to our interactive fiction game.
 
 Begin by Forking this repository. Check that it has been forked successfully; the repository should now read [your username]/Exercise-01d-Score-and-Moves
