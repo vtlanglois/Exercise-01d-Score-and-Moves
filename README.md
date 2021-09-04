@@ -1,5 +1,5 @@
-```
-# Exercise-01d-Score-and-Moves
+
+## Exercise-01d-Score-and-Moves
 Exercise for MSCH-C220, 2 September 2021
 
 A simple interactive fiction game engine, that allows a player to navigate through eight locations from classic Zork, implemented in Python. Moves and a score are also tracked and reported.
@@ -15,4 +15,4 @@ None
 
 ## Created by
 Vincent Langlois
-```
+
